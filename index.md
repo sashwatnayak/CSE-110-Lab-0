@@ -13,7 +13,7 @@
 *1. To Be a Software Engineer*\
 *2. To Be Part of the Software made to Revolutionize*\
 *3. To Make a Long-Lasting Change*\
-*4. To Bring Smiles!*
+*4. To Bring Smiles Everywhere!*
 
 ~~Former Chemical Engineer~~
 
