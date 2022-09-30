@@ -26,7 +26,7 @@
 *Python*\
 `print('Hello world!')`\
 *Java*\
-`System.out.println("Hello World!);`\
+`System.out.println("Hello World!");`\
 *C++*\
 `std::cout >> Hello World!`
 
@@ -38,6 +38,8 @@ For Downloading [Python](https://www.python.org/)\
 For a [Python Tutorial](https://www.w3schools.com/python/)
 
 [Explore my README](README.md)
+
+Check my [LinkedIn Profile](https://www.linkedin.com/in/sashwat-nayak-47a198233/)
 
 ### Fun Stuff
 
